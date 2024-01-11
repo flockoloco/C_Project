@@ -1,3 +1,0 @@
-C:\Users\art91\OneDrive\Área de Trabalho\Projects\Learning\C\Comets\x64\Debug\Comets.exe
-C:\Users\art91\OneDrive\Área de Trabalho\Projects\Learning\C\Comets\x64\Debug\Comets.vcxproj.CopyComplete
-C:\Users\art91\OneDrive\Área de Trabalho\Projects\Learning\C\Comets\x64\Debug\raylib.dll

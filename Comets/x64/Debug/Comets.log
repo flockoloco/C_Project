@@ -1,6 +1,0 @@
-﻿  Main.cpp
-C:\Users\art91\OneDrive\Área de Trabalho\Projects\Learning\C\Comets\Main.cpp(70,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\art91\OneDrive\Área de Trabalho\Projects\Learning\C\Comets\Main.cpp(70,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  Comets.vcxproj -> C:\Users\art91\OneDrive\Área de Trabalho\Projects\Learning\C\Comets\x64\Debug\Comets.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
